@@ -1,0 +1,23 @@
+.jumbotron {
+  background-color: aliceblue;
+  padding-top: 2rem;
+}
+.navbar {
+  padding-top: 14px;
+}
+body {
+  height: 8000px;
+}
+h2 {
+  text-align: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.gallery {
+  background-color: aliceblue;
+}
+.card {
+  height: 100px;
+  background-color: aliceblue;
+  height: auto;
+}
